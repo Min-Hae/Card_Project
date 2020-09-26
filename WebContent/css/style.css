@@ -1,0 +1,97 @@
+BODY {COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: ±Ã¼­ ;}
+
+TD   {FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: ±¼¸² }
+
+SELECT {FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: ±¼¸² }
+
+.log{COLOR: black; text-align: right;LINE-HEIGHT: 160%; FONT-FAMILY: ±¼¸² }
+.part{text-align: center; font-size: 15px;}
+.bene{text-align: center; float:left;width:150px;height:150px; background-color:#BFFFB7; font-size:40px;color : green;border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -khtml-border-radius: 8px;
+  -moz-border-radius: 8px;  padding: 1em; margin:1em 1em 1em 1em;}
+SPAN{BACKGROUND-COLOR:white; color:black}
+FORM {FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 160%; FONT-FAMILY: ±¼¸² }
+.gtable{FONT-SIZE: 15pt;width: 90%;height: 50px; text-align: center;}
+.atable{FONT-SIZE: 15pt;width: 90%;height: 50px; BACKGROUND-COLOR:black; text-align: center;}
+.gtr{FONT-SIZE: 15pt;text-align:center}
+.logf{margin-top: 30px; text-align:center; FONT-SIZE: 15pt; margin-left: auto;margin-right: auto;}
+HR{border: solid 3px green;width: 90%; float: left;}
+ul.selectable {
+	text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  width: 50%;
+  float: left;
+   list-style:none;
+}
+ul.selectable li {
+  margin: 0 3em 0 4em;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -khtml-border-radius: 8px;
+  -moz-border-radius: 8px;
+}
+ul.selectable li.active {
+  margin-right: 0;
+}
+ul.selectable li.active dl {
+  background-color: #4f9ddf;
+}
+ul.selectable li dt {
+	text-align: center;
+  background-color: #BFFFB7;
+  padding: 1em;
+	color : green;
+  -webkit-border-radius: 8px;
+  -khtml-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+ul.selectable li dd {
+  padding: 0.25em;
+  background-color: #fff;
+}
+ul.selectable li.active dt {
+  background-color: #4f9ddf;
+  margin-right: 0;
+  -webkit-border-top-right-radius: 0;
+  -webkit-border-bottom-right-radius: 0;
+  -khtml-border-top-right-radius: 0;
+  -khtml-border-bottom-right-radius: 0;
+  -moz-border-radius-topright: 0;
+  -moz-border-radius-bottomright: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+ul.selectable li.active dd.top {
+  -webkit-border-bottom-right-radius: 8px;
+  -khtml-border-bottom-right-radius: 8px;
+  -moz-border-radius-bottomright: 8px;
+  border-bottom-right-radius: 8px;
+}
+ul.selectable li.active dd.bot {
+  -webkit-border-top-right-radius: 8px;
+  -khtml-border-top-right-radius: 8px;
+  -moz-border-radius-topright: 8px;
+  border-top-right-radius: 8px;
+}
+TEXTAREA {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999;
+	FONT-SIZE: 9pt; BORDER-LEFT: 1px solid #999999 ; COLOR: BLACK; BORDER-BOTTOM: 1px solid #999999;
+	FONT-FAMILY: ±¼¸²,verdana; BACKGROUND-COLOR: white
+}
+INPUT {
+	BORDER-RIGHT: 1px solid #999999; BORDER-TOP: 1px solid #999999; FONT-SIZE: 9pt;
+	BORDER-LEFT: 1px solid #999999; COLOR: BLACK; BORDER-BOTTOM: 2px solid #999999; ;
+	BORDER-RIGHT: 2px solid #999999; FONT-FAMILY: ±¼¸²,verdana; HEIGHT: 19px; BACKGROUND-COLOR: white
+}
+.shadow{text-shadow:1px 0 black}
+.loginbanner{width:90%; text-align:center;color: white; background-color: #BFFFB7}
+.abene{text-decoration:none;color:green;font-weight: bold; }
+.icon{text-align:left;height:10px;width:15px}
+.dbutton{font-size:15px}
+.alla {text-decoration:none;color:#696969;font-weight: bold;}
+.atop{text-decoration:none;color:green; font-weight: bold;}
+.trlog{margin-bottom: 1em; font-size:15pt}
+.tdlog{margin-bottom: 1em; font-size:15pt}
